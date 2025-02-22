@@ -5,11 +5,12 @@ Welcome to my GitHub! I'm a tech enthusiast and a passionate CS-AI researcher wi
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on reducing the affect of high reconfiguration latency of optical curcuit switches during the large scale AI model training.
-- 🌱 I’m currently developing a simulator using C++ that uses optical circuit switches for the purpose of design space exploration.
-- 👯 I’m open to collaborating on research areas related to LLM optimization and multi gpu training optimization.
-- 💬 Ask me about how networking impacts the field of AI, how transformer models work in an intuitive manner along with the internal mathemaics.
-- 📫 Here is my 
+- 🔭 I am an CS-AI researcher working on the intersection of networking, GPU and LLMs.
+- 🌱 My current research involves integrating a temporal graph based algorithm to the optical circuit switches (current state of art in AI Data centers)
+- Along side i am also working on creating a simulator that involves OCS switches for design space exploration in AI Datacenter.
+- 👯 I’m open to collaborating on building innovative and useful products and research areas related to LLM optimization and multi gpu training optimization.
+- 💬 Technically i am good at studying research papers and analyzing them and thereby connecting all the gaps and dots
+- 📫 I am obsessed over "how" and "why" of LLMs and various technological advancements.
 - ⚡ Fun fact: My research once led me down a rabbit hole so deep, I emerged with a conspiracy theory about why tabs vs. spaces is still a debate. 
 
 ---
