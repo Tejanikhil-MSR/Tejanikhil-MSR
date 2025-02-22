@@ -1,6 +1,7 @@
 <h3 align="left"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Tejanikhil </h3>
 
-Welcome to my GitHub!
+I'm a grad student at IIT Indore (eyeing for PhD). 
+**Area of Interest**: LLMs and Multi GPU Training optimization 
 
 ---
 
