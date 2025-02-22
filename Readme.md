@@ -2,10 +2,7 @@
 
 Welcome to my GitHub! I’m a grad student pursuing an MS (and eyeing a PhD) in multi-GPU optimization, where I tinker with networking algorithms to make optical switches sing at scale. Think distributed systems, high-performance computing, and squeezing every drop of efficiency out of GPU clusters. Refer my portfolio or reach out to me to know more about me.
 
-🔍 What Drives Me: "The important thing is not to stop questioning. Curiosity has its own reason for existing." – Albert Einstein. I live by this—dissecting LLMs (especially Transformers), GPU programming, and the software stitching it all together. I’m hooked on understanding how things work.
-🌱 Current Obsessions: Optimizing data flow for AI workloads, exploring how networking powers large-scale GPU setups, and figuring out what makes LLMs tick.
-💻 Code & Tools: C/C++, Python, CUDA—whatever cracks the problem. I’m a firm believer in the 10,000-hour rule: mastery comes from grinding it out, one line at a time.
-📝 Goals: Build, teach, and push the edges of distributed computing—whether it’s research, open-source projects.
+
 
 The important thing is not to stop questioning. Curiosity has its own reason for existing.
 Strongly believe the 10000 hrs rule in mastering a skill
@@ -13,11 +10,10 @@ Strongly believe the 10000 hrs rule in mastering a skill
 ---
 
 ## 🚀 About Me
-- 🔭 I am an CS-AI researcher working on the intersection of networking, GPU and LLMs.
-- 🌱 I'm currently working on creating a simulator that involves OCS switches for design space exploration in AI Datacenter.
-- 👯 I’m open to collaborating on building useful products and performing research.
-- 💬 I'm good at performing research studies and analyzing them and identifying the dots and connecting the gaps.
-- 📫 I am obsessed over "how" and "why" of LLMs and various technological advancements.
+- 🔍 _What Drives Me_: "The important thing is not to stop questioning. Curiosity has its own reason for existing." – Albert Einstein. I live by this—dissecting LLMs (especially Transformers), GPU programming, and the software stitching it all together. I’m hooked on understanding how things work.
+- 🌱 _Current Obsessions_: Optimizing data flow for AI workloads, exploring how networking powers large-scale GPU setups, and figuring out what makes LLMs tick.
+- 💻 _Code & Tools_: C/C++, Python, CUDA—whatever cracks the problem. I’m a firm believer in the 10,000-hour rule: mastery comes from grinding it out, one line at a time.
+- 📝 _Goals_: Build, teach, and push the edges of distributed computing—whether it’s research, open-source projects.
 
 ---
 
