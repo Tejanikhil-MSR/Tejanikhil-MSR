@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Teja Nikhil
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Gift Egwuenu</h3>
 
 Welcome to my GitHub! I’m a grad student pursuing an MS (and eyeing a PhD) in multi-GPU optimization, where I tinker with networking algorithms to make optical switches sing at scale. Think distributed systems, high-performance computing, and squeezing every drop of efficiency out of GPU clusters. Refer my portfolio or reach out to me to know more about me.
 
