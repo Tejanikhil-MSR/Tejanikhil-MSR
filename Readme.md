@@ -2,15 +2,10 @@
 
 Welcome to my GitHub! I’m a grad student pursuing an MS (and eyeing a PhD) in multi-GPU optimization, where I tinker with networking algorithms to make optical switches sing at scale. Think distributed systems, high-performance computing, and squeezing every drop of efficiency out of GPU clusters. Refer my portfolio or reach out to me to know more about me.
 
-
-
-The important thing is not to stop questioning. Curiosity has its own reason for existing.
-Strongly believe the 10000 hrs rule in mastering a skill
-
 ---
 
 ## 🚀 About Me
-- 🔍 __What Drives Me__: "The important thing is not to stop questioning. Curiosity has its own reason for existing." – Albert Einstein. I live by this—dissecting LLMs (especially Transformers), GPU programming, and the software stitching it all together. I’m hooked on understanding how things work.
+- 🔍 __What Drives Me__: Curiosity is what drives me and I live by this — dissecting LLMs (especially Transformers), GPU programming, and the software stitching it all together. I’m hooked on understanding how things work.
 - 🌱 __Current Obsessions__: Optimizing data flow for AI workloads, exploring how networking powers large-scale GPU setups, and figuring out what makes LLMs tick.
 - 💻 __Code & Tools__: C/C++, Python, CUDA—whatever cracks the problem. I’m a firm believer in the 10,000-hour rule: mastery comes from grinding it out, one line at a time.
 - 📝 __Goals__: Build, teach, and push the edges of distributed computing—whether it’s research, open-source projects.
