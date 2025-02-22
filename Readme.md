@@ -12,6 +12,16 @@ Welcome to my GitHub! I’m a grad student pursuing an MS (and eyeing a PhD) in 
 - 📝 __Goals__: Build, teach, and push the edges of distributed computing—whether it’s research, open-source projects.
 - ⚡ __Fun Fact__ : I’d rather spend an hour reverse-engineering a system than binge-watching a show. It’s the puzzle that gets me every time.
 
+## What i know
+
+<img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />  
+<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />  
+<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />  
+<img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />  
+<img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />  
+<img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />  
+<img alt="CUDA" src="https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+
 ---
 
 ## 🌐 Connect With Me
