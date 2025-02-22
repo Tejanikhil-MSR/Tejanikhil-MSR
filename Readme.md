@@ -5,7 +5,7 @@ Welcome to my GitHub! I’m a grad student pursuing an MS (and eyeing a PhD) in 
 ---
 
 ## 🚀 About Me
--  __What I Believe__: Be Curious, Be Consistent and Communicate.
+- 🧠 __What I Believe__: Be Curious, Be Consistent and Communicate.
 - 🔍 __What I'm into__: dissecting LLMs (especially Transformers), GPU programming, and the software stitching it all together. I’m hooked on understanding how things work.
 - 🌱 __Current Obsessions__: Optimizing data flow for AI workloads, exploring how networking powers large-scale GPU setups, and figuring out what makes LLMs tick.
 - 💻 __Code & Tools__: C/C++, Python, CUDA—whatever cracks the problem. I’m a firm believer in the 10,000-hour rule: mastery comes from grinding it out, one line at a time.
