@@ -2,7 +2,7 @@
 
 I'm a grad reasearcher 🔬 at IIT Indore (eyeing for PhD 🎓). Looking for collaboration 🤝 !!   
 
-**Area of Interest 🔍**: LLMs and Multi GPU Training optimization 
+**🔍 Area of Interest**: LLMs 🧠 and Multi GPU 💻 Training optimization 
 
 ---
 
