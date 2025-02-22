@@ -1,30 +1,29 @@
-# Hey there! 👋 I'm [Your Name]
+# Hey there! 👋 I'm Teja Nikhil
 
-Welcome to my GitHub! I'm a [your profession/role, e.g., Software Developer, Data Scientist, etc.] passionate about [your interests, e.g., building scalable applications, solving complex problems, etc.]. Here, you'll find my projects, experiments, and contributions to the open-source community.
+Welcome to my GitHub! I'm a tech enthusiast and a passionate CS-AI researcher with a knack for unraveling AI breakthroughs and the nitty-gritty of modern systems — give me a new algorithm or a tool, and I’m hooked on understanding it inside out. My area of research involves optimization of distributed training on multi gpu cluster in a large scale specially on the LLM workloads. Here, you'll find my projects, experiments, and contributions to the open-source community.
 
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [your current project or job, e.g., a cool web app or machine learning model].
-- 🌱 I’m learning [technologies or skills you're exploring, e.g., Rust, Cloud Computing, etc.].
-- 👯 I’m open to collaborating on [types of projects, e.g., open-source tools, APIs, etc.].
-- 💬 Ask me about [topics you're confident in, e.g., Python, DevOps, UI/UX].
-- 📫 Reach me at: [your email or social link, e.g., email@example.com].
-- ⚡ Fun fact: [something quirky or interesting about you].
+- 🔭 I’m currently working on reducing the affect of high reconfiguration latency of optical curcuit switches during the training process.
+- 🌱 I’m currently developing a simulator using C++ that uses optical circuit switches for the purpose of design space exploration.
+- 👯 I’m open to collaborating on research areas related to LLM optimization and multi gpu training optimization.
+- 💬 Ask me about how networking impacts the field of AI, how transformer models work in an intuitive manner along with the internal mathemaics.
+- 📫 Reach me through my linkedin : https://www.linkedin.com/in/masabattula-teja-nikhil-408383209/ or through my email id : ms2404101014@iiti.ac.in
+- ⚡ Fun fact: My research once led me down a rabbit hole so deep, I emerged with a conspiracy theory about why tabs vs. spaces is still a debate. 
 
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages**: [e.g., Python, JavaScript, C++]
-- **Frameworks**: [e.g., React, Django, TensorFlow]
-- **Tools**: [e.g., Git, Docker, AWS]
-- **Other**: [e.g., Agile, CI/CD, Data Analysis]
+- **Languages**: [e.g., Python, Java, C++,]
+- **Frameworks**: [e.g., Tensorflow, PyTorch, CUDA,]
+- **Tools**: [e.g., Git, Docker, VS-Code, Cursor]
 
 ---
 
 ## 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Tejanikhil-MSR]&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[Tejanikhil-MSR]&layout=compact&theme=radical)
 
 ---
 
