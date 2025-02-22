@@ -10,7 +10,7 @@ Welcome to my GitHub! I’m a grad student pursuing an MS (and eyeing a PhD) in 
 - 🌱 __Current Obsessions__: Optimizing data flow for AI workloads, exploring how networking powers large-scale GPU setups, and figuring out what makes LLMs tick.
 - 💻 __Code & Tools__: C/C++, Python, CUDA—whatever cracks the problem. I’m a firm believer in the 10,000-hour rule: mastery comes from grinding it out, one line at a time.
 - 📝 __Goals__: Build, teach, and push the edges of distributed computing—whether it’s research, open-source projects.
-- ⚡ Fun Fact : I’d rather spend an hour reverse-engineering a system than binge-watching a show. It’s the puzzle that gets me every time.
+- ⚡ __Fun Fact__ : I’d rather spend an hour reverse-engineering a system than binge-watching a show. It’s the puzzle that gets me every time.
 
 ---
 
