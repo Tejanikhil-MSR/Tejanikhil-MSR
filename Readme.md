@@ -6,8 +6,7 @@ Welcome to my GitHub! I'm a tech enthusiast and a passionate CS-AI researcher wi
 
 ## 🚀 About Me
 - 🔭 I am an CS-AI researcher working on the intersection of networking, GPU and LLMs.
-- 🌱 My current research involves integrating a temporal graph based algorithm to the optical circuit switches (current state of art in AI Data centers)
-- Along side i am also working on creating a simulator that involves OCS switches for design space exploration in AI Datacenter.
+- 🌱 I'm currently working on creating a simulator that involves OCS switches for design space exploration in AI Datacenter.
 - 👯 I’m open to collaborating on building innovative and useful products and research areas related to LLM optimization and multi gpu training optimization.
 - 💬 Technically i am good at studying research papers and analyzing them and thereby connecting all the gaps and dots
 - 📫 I am obsessed over "how" and "why" of LLMs and various technological advancements.
