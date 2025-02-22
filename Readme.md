@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a tech enthusiast and a passionate CS-AI researcher wi
 ---
 
 ## 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejanikhi-MSRl&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejanikhi-MSR&show_icons=true&theme=radical)
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejanikhil&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejanikhil-MSR&layout=compact&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejanikhil&layout=compact&theme=radical)
