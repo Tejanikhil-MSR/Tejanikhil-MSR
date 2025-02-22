@@ -1,6 +1,14 @@
 # Hey there! 👋 I'm Teja Nikhil
 
-Welcome to my GitHub! I'm a tech enthusiast and a passionate CS-AI researcher with a knack for unraveling AI breakthroughs and the nitty-gritty of modern systems — give me a new algorithm or a tool, and I’m hooked on understanding it inside out. My area of research involves optimization of distributed training on multi gpu cluster in a large scale specially on the LLM workloads. Here, you'll find my projects, experiments, and contributions to the open-source community. Refer my portfolio or reach out to me to know more about me.
+Welcome to my GitHub! I’m a grad student pursuing an MS (and eyeing a PhD) in multi-GPU optimization, where I tinker with networking algorithms to make optical switches sing at scale. Think distributed systems, high-performance computing, and squeezing every drop of efficiency out of GPU clusters. Refer my portfolio or reach out to me to know more about me.
+
+🔍 What Drives Me: "The important thing is not to stop questioning. Curiosity has its own reason for existing." – Albert Einstein. I live by this—dissecting LLMs (especially Transformers), GPU programming, and the software stitching it all together. I’m hooked on understanding how things work.
+🌱 Current Obsessions: Optimizing data flow for AI workloads, exploring how networking powers large-scale GPU setups, and figuring out what makes LLMs tick.
+💻 Code & Tools: C/C++, Python, CUDA—whatever cracks the problem. I’m a firm believer in the 10,000-hour rule: mastery comes from grinding it out, one line at a time.
+📝 Goals: Build, teach, and push the edges of distributed computing—whether it’s research, open-source projects.
+
+The important thing is not to stop questioning. Curiosity has its own reason for existing.
+Strongly believe the 10000 hrs rule in mastering a skill
 
 ---
 
@@ -10,7 +18,6 @@ Welcome to my GitHub! I'm a tech enthusiast and a passionate CS-AI researcher wi
 - 👯 I’m open to collaborating on building useful products and performing research.
 - 💬 I'm good at performing research studies and analyzing them and identifying the dots and connecting the gaps.
 - 📫 I am obsessed over "how" and "why" of LLMs and various technological advancements.
-- ⚡ Fun fact: My research once led me down a rabbit hole so deep, I emerged with a conspiracy theory about why tabs vs. spaces is still a debate. 
 
 ---
 
