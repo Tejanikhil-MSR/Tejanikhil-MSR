@@ -14,4 +14,4 @@ I'm a grad reasearcher 🔬 at IIT Indore (eyeing for PhD 🎓). Looking for col
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and drop me a message if you'd like to chat or collaborate!
+Thanks for stopping by! 👋 Feel free to explore my repositories 📂 and drop me a message 💬 if you'd like to chat 🗣️ or collaborate! 🤝
