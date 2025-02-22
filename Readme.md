@@ -7,8 +7,8 @@ Welcome to my GitHub! I'm a tech enthusiast and a passionate CS-AI researcher wi
 ## 🚀 About Me
 - 🔭 I am an CS-AI researcher working on the intersection of networking, GPU and LLMs.
 - 🌱 I'm currently working on creating a simulator that involves OCS switches for design space exploration in AI Datacenter.
-- 👯 I’m open to collaborating on building innovative and useful products and research areas related to LLM optimization and multi gpu training optimization.
-- 💬 Technically i am good at studying research papers and analyzing them and thereby connecting all the gaps and dots
+- 👯 I’m open to collaborating on building useful products and performing research.
+- 💬 I'm good at performing research studies and analyzing them and identifying the dots and connecting the gaps.
 - 📫 I am obsessed over "how" and "why" of LLMs and various technological advancements.
 - ⚡ Fun fact: My research once led me down a rabbit hole so deep, I emerged with a conspiracy theory about why tabs vs. spaces is still a debate. 
 
