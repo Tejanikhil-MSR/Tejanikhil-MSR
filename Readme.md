@@ -4,6 +4,8 @@ I'm a grad reasearcher 🔬 at IIT Indore (eyeing for PhD 🎓). Looking for col
 
 **🔍 Area of Interest**: LLMs 🧠 and Multi GPU 💻 Training optimization 
 
+**Publications**: Refer my [google scholar](https://scholar.google.com/citations?user=p4VBKRcAAAAJ&hl=en) profile for my publications 
+
 ---
 
 ## 🌐 Connect With Me
