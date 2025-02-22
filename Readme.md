@@ -14,12 +14,6 @@ Welcome to my GitHub! I’m a grad student pursuing an MS (and eyeing a PhD) in 
 
 ---
 
-## 📊 GitHub Stats (Personal, Institutional)
-![Institutional Stats](https://github-readme-stats.vercel.app/api?username=Tejanikhil-MSR&show_icons=true&theme=radical)
-![Personal Stats](https://github-readme-stats.vercel.app/api?username=Tejanikhil&show_icons=true&theme=radical)  
-
----
-
 ## 🌐 Connect With Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/masabattula-teja-nikhil-408383209/) 
 [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />](https://github.com/Tejanikhil) 
