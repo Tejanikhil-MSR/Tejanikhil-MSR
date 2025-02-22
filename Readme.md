@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Teja Nikhil
 
-Welcome to my GitHub! I'm a tech enthusiast and a passionate CS-AI researcher with a knack for unraveling AI breakthroughs and the nitty-gritty of modern systems — give me a new algorithm or a tool, and I’m hooked on understanding it inside out. My area of research involves optimization of distributed training on multi gpu cluster in a large scale specially on the LLM workloads. Here, you'll find my projects, experiments, and contributions to the open-source community.
+Welcome to my GitHub! I'm a tech enthusiast and a passionate CS-AI researcher with a knack for unraveling AI breakthroughs and the nitty-gritty of modern systems — give me a new algorithm or a tool, and I’m hooked on understanding it inside out. My area of research involves optimization of distributed training on multi gpu cluster in a large scale specially on the LLM workloads. Here, you'll find my projects, experiments, and contributions to the open-source community. Refer my portfolio or reach out to me to know more about me.
 
 ---
 
@@ -22,14 +22,13 @@ Welcome to my GitHub! I'm a tech enthusiast and a passionate CS-AI researcher wi
 ---
 
 ## 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Tejanikhil]&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[Tejanikhil-MSR]&layout=compact&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tejanikhil&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejanikhil-MSR&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Connect With Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/masabattula-teja-nikhil-408383209/) 
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/[your-twitter]) 
 [<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://tejanikhil-msr.github.io/)
 
 ---
