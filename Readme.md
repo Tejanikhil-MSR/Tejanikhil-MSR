@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a tech enthusiast and a passionate CS-AI researcher wi
 - 🌱 I’m currently developing a simulator using C++ that uses optical circuit switches for the purpose of design space exploration.
 - 👯 I’m open to collaborating on research areas related to LLM optimization and multi gpu training optimization.
 - 💬 Ask me about how networking impacts the field of AI, how transformer models work in an intuitive manner along with the internal mathemaics.
-- 📫 Reach me through my linkedin : https://www.linkedin.com/in/masabattula-teja-nikhil-408383209/ or through my email id : ms2404101014@iiti.ac.in
+- 📫 Reach me through my linkedin :  or through my email id : ms2404101014@iiti.ac.in
 - ⚡ Fun fact: My research once led me down a rabbit hole so deep, I emerged with a conspiracy theory about why tabs vs. spaces is still a debate. 
 
 ---
@@ -22,26 +22,15 @@ Welcome to my GitHub! I'm a tech enthusiast and a passionate CS-AI researcher wi
 ---
 
 ## 📊 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Tejanikhil-MSR]&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Tejanikhil]&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[Tejanikhil-MSR]&layout=compact&theme=radical)
 
 ---
 
-## 🔥 Featured Projects
-- **[Project Name 1](link-to-repo)**  
-  [Short description, e.g., A full-stack app for task management built with React and Node.js.]  
-  Tech: [e.g., JavaScript, MongoDB]
-
-- **[Project Name 2](link-to-repo)**  
-  [Short description, e.g., A machine learning model to predict stock prices.]  
-  Tech: [e.g., Python, Scikit-learn]
-
----
-
 ## 🌐 Connect With Me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/[your-linkedin]) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/masabattula-teja-nikhil-408383209/) 
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/[your-twitter]) 
-[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://[your-portfolio-url])
+[<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />]([https://[your-portfolio-url]](https://tejanikhil-msr.github.io/))
 
 ---
 
