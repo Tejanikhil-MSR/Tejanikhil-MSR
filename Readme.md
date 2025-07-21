@@ -1,8 +1,8 @@
 <h3 align="left"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Tejanikhil </h3>
 
-I'm a grad reasearcher 🔬 at IIT Indore (eyeing for PhD 🎓). Looking for collaboration 🤝 !!   
+I'm a grad reasearcher 🔬 at IIT Indore. Looking for collaboration 🤝 !!   
 
-**🔍 Area of Interest**: LLMs 🧠 and Multi GPU 💻 Training optimization 
+**🔍 Area of Interest**: LLMs 🧠 and Multi GPU 💻 Training optimization and building AI based applications that benefits the society
 
 **📚 Publications**: Refer my [GoogleScholar](https://scholar.google.com/citations?user=p4VBKRcAAAAJ&hl=en) 🌐 profile for my research publications 
 
